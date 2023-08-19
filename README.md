@@ -1,9 +1,9 @@
 # Router-Honeypot-Wireless-Repeater
 Alaya Wireless Router Repeater Honeypot
 
-HEY This is Yakin and this is my Wireless Router Honeypot, it save everything on a new sqlite3 database, database for each attempt its save settings and everything.
+Hello, I'm Yakin, and I'd like to introduce you to my Wireless Router Honeypot. 
 
-NOTICE: i uploaded the Version that not record anything.
+This honeypot is designed to capture data and activity, which is then stored in separate SQLite3 databases for each attempted interaction. It records various settings and details associated with each attempt.
 
 # SCREENSHOTS
 
