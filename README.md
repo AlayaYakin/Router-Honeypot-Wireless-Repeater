@@ -5,6 +5,6 @@ HEY This is Yakin and this is my Wireless Router Honeypot, it save everything on
 
 NOTICE: i uploaded the Version that not record anything.
 
-<img src='screenshots/ddns.png>
+![Screenshot](screenshots/ddns.png)
 
 
